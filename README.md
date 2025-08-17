@@ -78,3 +78,6 @@ The application ensures a clear separation of functionality between registered a
 Developed entirely by the repository owner as a solo project for academic purposes.  
 For more information or questions, please reach out via GitHub.
 
+## Year
+2024
+
