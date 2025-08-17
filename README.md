@@ -59,15 +59,15 @@ The application ensures a clear separation of functionality between registered a
 
 ## Screenshots
 
-### Meme Round – Registered User
+### Summary – Registered User
 
 ![Meme Round 1](./image1.png)
 
-### Meme Round – End of Game Summary
+### Home - Beginning
 
 ![Game Summary](./image2.png)
 
-### Matches History – User Profile
+### Round - Registered User
 
 ![Match History](./image3.png)
 
